@@ -48,7 +48,7 @@ header nav a.active {
 
 /* ======== Hero Section ======== */
 .hero {
-  background: url('images/Fur1.jpg') center/cover no-repeat;
+  background: url('Fur1.jpg') center/cover no-repeat;
   height: 80vh;
   display: flex;
   justify-content: center;
@@ -402,3 +402,4 @@ footer {
   object-fit: cover;
   display: block;
 }
+
